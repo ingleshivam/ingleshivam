@@ -7,8 +7,8 @@
 I build LLM-powered pipelines, RAG systems, and full-stack web applications.  
 Currently working at **DroitCloud**, where I engineer AI solutions for real-world document intelligence and medical data processing.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-i-969839163)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ingleshivam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamingle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shivamingle)
 [![Location](https://img.shields.io/badge/Pune%2C%20India-📍-lightgrey)](https://maps.google.com/?q=Pune,India)
 
 </div>
@@ -53,7 +53,7 @@ Currently working at **DroitCloud**, where I engineer AI solutions for real-worl
 
 ## 🚀 Featured Project
 
-### [FlowMind](https://github.com/ingleshivam/flowmind)
+### [FlowMind](https://github.com/shivamingle/flowmind)
 > Visual node-based AI workflow builder — drag, drop, and wire LLM agents together.
 
 Built with **React Flow** and **LangGraph**, FlowMind lets you visually design and execute multi-step agentic AI workflows without writing boilerplate orchestration code. Think n8n, but for LLM agents.
@@ -78,9 +78,9 @@ Working on LLM-based medical record classification, OCR document intelligence pi
 
 <div align="center">
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingleshivam&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=shivamingle&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingleshivam&layout=compact&theme=default&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamingle&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
@@ -91,4 +91,4 @@ Working on LLM-based medical record classification, OCR document intelligence pi
 I'm open to **remote, hybrid, or on-site** roles in AI engineering or full-stack development.  
 Feel free to reach out — always happy to talk shop on LLMs, agentic systems, or interesting product ideas.
 
-**[linkedin.com/in/shivam-i-969839163](https://linkedin.com/in/shivam-i-969839163)**
+**[linkedin.com/in/shivamingle](https://linkedin.com/in/shivamingle)**
