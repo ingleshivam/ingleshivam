@@ -93,4 +93,4 @@ Working on LLM-based medical record classification, OCR document intelligence pi
 I'm open to **remote, hybrid, or on-site** roles in AI engineering or full-stack development.  
 Feel free to reach out — always happy to talk shop on LLMs, agentic systems, or interesting product ideas.
 
-**[linkedin.com/in/shivam-i-969839163](linkedin.com/in/shivam-i-969839163)**
+**[linkedin.com/in/shivam-i-969839163](www.linkedin.com/in/shivam-i-969839163)**
