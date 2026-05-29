@@ -7,7 +7,7 @@
 I build LLM-powered pipelines, RAG systems, and full-stack web applications.  
 Currently working at **DroitCloud**, where I engineer AI solutions for real-world document intelligence and medical data processing.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamingle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-i-969839163)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shivamingle)
 [![Location](https://img.shields.io/badge/Pune%2C%20India-📍-lightgrey)](https://maps.google.com/?q=Pune,India)
 
@@ -93,4 +93,4 @@ Working on LLM-based medical record classification, OCR document intelligence pi
 I'm open to **remote, hybrid, or on-site** roles in AI engineering or full-stack development.  
 Feel free to reach out — always happy to talk shop on LLMs, agentic systems, or interesting product ideas.
 
-**[linkedin.com/in/shivamingle](https://linkedin.com/in/shivamingle)**
+**[linkedin.com/in/shivam-i-969839163](linkedin.com/in/shivam-i-969839163)**
