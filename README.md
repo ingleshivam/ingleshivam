@@ -78,9 +78,11 @@ Working on LLM-based medical record classification, OCR document intelligence pi
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shivamingle&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingleshivam&show_icons=true&theme=tokyonight)
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingleshivam)](https://github.com/ingleshivam/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=ingleshivam&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingleshivam&layout=compact&theme=tokyonight)
 
 </div>
 
