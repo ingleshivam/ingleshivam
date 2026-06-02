@@ -5,7 +5,6 @@
 **AI/GenAI Engineer · Full-Stack Developer · Builder of Agentic Systems**
 
 I build LLM-powered pipelines, RAG systems, and full-stack web applications.  
-Currently working at **DroitCloud**, where I engineer AI solutions for real-world document intelligence and medical data processing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-i-969839163)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ingleshivam)
@@ -67,7 +66,7 @@ Built with **React Flow** and **LangGraph**, FlowMind lets you visually design a
 
 ## 💼 Currently At
 
-**Junior Software Developer | Pune, India**
+**AI Engineer | Pune, India**
 
 • Developed and maintained full-stack applications using modern web technologies.
 • Built and optimized AI-powered document processing workflows, including data extraction, validation, and classification.
