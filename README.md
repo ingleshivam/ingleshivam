@@ -67,10 +67,15 @@ Built with **React Flow** and **LangGraph**, FlowMind lets you visually design a
 
 ## 💼 Currently At
 
-**DroitCloud · Junior Software Developer**  
-Kharadi, Pune · AI/GenAI + Full-Stack
+**Junior Software Developer | Pune, India**
 
-Working on LLM-based medical record classification, OCR document intelligence pipelines, and revenue cycle management (RCM) automation.
+• Developed and maintained full-stack applications using modern web technologies.
+• Built and optimized AI-powered document processing workflows, including data extraction, validation, and classification.
+• Integrated OCR-based solutions to automate information capture from structured and unstructured documents.
+• Contributed to the development of intelligent automation systems to streamline business processes and improve operational efficiency.
+• Designed and implemented backend services, APIs, and database integrations for scalable enterprise applications.
+• Collaborated with cross-functional teams to deliver high-quality software solutions in an agile development environment.
+• Worked with Large Language Models (LLMs) and AI-driven workflows to enhance data processing and decision-making capabilities.
 
 ---
 
@@ -78,11 +83,11 @@ Working on LLM-based medical record classification, OCR document intelligence pi
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ingleshivam&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-beta-gules-23.vercel.app/api?username=ingleshivam&show_icons=true&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=ingleshivam&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ingleshivam&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ingleshivam&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-beta-gules-23.vercel.app/api/top-langs/?username=ingleshivam&layout=compact&theme=tokyonight)
 
 </div>
 
