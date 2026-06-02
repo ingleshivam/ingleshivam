@@ -8,7 +8,7 @@ I build LLM-powered pipelines, RAG systems, and full-stack web applications.
 Currently working at **DroitCloud**, where I engineer AI solutions for real-world document intelligence and medical data processing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-i-969839163)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shivamingle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ingleshivam)
 [![Location](https://img.shields.io/badge/Pune%2C%20India-📍-lightgrey)](https://maps.google.com/?q=Pune,India)
 
 </div>
@@ -83,11 +83,11 @@ Built with **React Flow** and **LangGraph**, FlowMind lets you visually design a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-beta-gules-23.vercel.app/api?username=ingleshivam&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-beta-gules-23.vercel.app/api?username=shivamingle&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ingleshivam&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shivamingle&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-beta-gules-23.vercel.app/api/top-langs/?username=ingleshivam&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-beta-gules-23.vercel.app/api/top-langs/?username=shivamingle&layout=compact&theme=tokyonight)
 
 </div>
 
