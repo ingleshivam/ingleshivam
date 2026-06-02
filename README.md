@@ -83,11 +83,7 @@ Built with **React Flow** and **LangGraph**, FlowMind lets you visually design a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-beta-gules-23.vercel.app/api?username=ingleshivam&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=ingleshivam&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-beta-gules-23.vercel.app/api/top-langs/?username=ingleshivam&layout=compact&theme=tokyonight)
 
 </div>
 
