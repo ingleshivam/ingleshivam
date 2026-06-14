@@ -68,13 +68,13 @@ Built with **React Flow** and **LangGraph**, FlowMind lets you visually design a
 
 **AI Engineer | Pune, India**
 
-• Developed and maintained full-stack applications using modern web technologies.
-• Built and optimized AI-powered document processing workflows, including data extraction, validation, and classification.
-• Integrated OCR-based solutions to automate information capture from structured and unstructured documents.
-• Contributed to the development of intelligent automation systems to streamline business processes and improve operational efficiency.
-• Designed and implemented backend services, APIs, and database integrations for scalable enterprise applications.
-• Collaborated with cross-functional teams to deliver high-quality software solutions in an agile development environment.
-• Worked with Large Language Models (LLMs) and AI-driven workflows to enhance data processing and decision-making capabilities.
+- Developed and maintained full-stack applications using modern web technologies.
+- Built and optimized AI-powered document processing workflows, including data extraction, validation, and classification.
+- Integrated OCR-based solutions to automate information capture from structured and unstructured documents.
+- Contributed to the development of intelligent automation systems to streamline business processes and improve operational efficiency.
+- Designed and implemented backend services, APIs, and database integrations for scalable enterprise applications.
+- Collaborated with cross-functional teams to deliver high-quality software solutions in an agile development environment.
+- Worked with Large Language Models (LLMs) and AI-driven workflows to enhance data processing and decision-making capabilities.
 
 ---
 
