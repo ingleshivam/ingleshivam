@@ -52,6 +52,27 @@ I build LLM-powered pipelines, RAG systems, and full-stack web applications.
 
 ## 🚀 Featured Project
 
+### CRAG
+> Self-correcting RAG pipeline — retrieve, grade, rewrite, and verify before every answer.
+
+Built with LangGraph and Qdrant, CRAG goes beyond naive RAG by grading retrieved documents for relevance, rewriting queries when sources fall short, and validating that answers are actually grounded in the material — including math. Think standard RAG, but with a built-in bullshit detector.
+
+-   🔁 Self-correcting LangGraph pipeline with retrieval → grade → rewrite loops  
+-   🧮 Math-aware chunking and faithfulness verification for technical documents  
+-   🔍 Hybrid dense + BM25 sparse search with RRF fusion via Qdrant  
+-   ⚡ Real-time SSE streaming of tokens and live pipeline execution traces  
+-   📄 Multi-format ingestion (PDF, Markdown, TXT) with a Next.js chat UI  
+
+### [AI Travel Planner](https://github.com/ingleshivam/TravelPlanner)
+> Conversational trip planner — describe your destination and budget, get a full itinerary in seconds.
+
+Powered by **LangGraph** and **Groq**, AI Travel Planner orchestrates a multi-step agentic pipeline that extracts your trip details, allocates your budget, and fetches live travel data to return ranked transport options, hotel picks, and a day-by-day itinerary — all through a single chat.
+
+-   🗺️ Chat-first trip planning with a Next.js + shadcn/ui interface
+-   🤖 LangGraph state graph for multi-step agentic orchestration
+-   🔍 Live fares and hotel rates via SerpAPI Google AI Mode
+-   💸 Budget-aware planning with per-category allocation and cost breakdown
+
 ### [FlowMind](https://github.com/shivamingle/flowmind)
 > Visual node-based AI workflow builder — drag, drop, and wire LLM agents together.
 
